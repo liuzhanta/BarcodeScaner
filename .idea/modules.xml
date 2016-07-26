@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BarcodeScaner.iml" filepath="$PROJECT_DIR$/BarcodeScaner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcoder-sample/barcoder-sample.iml" filepath="$PROJECT_DIR$/barcoder-sample/barcoder-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing-barcoder-embed/zxing-barcoder-embed.iml" filepath="$PROJECT_DIR$/zxing-barcoder-embed/zxing-barcoder-embed.iml" />
+    </modules>
+  </component>
+</project>

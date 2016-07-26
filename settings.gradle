@@ -1,0 +1,1 @@
+include ':barcoder-sample', ':zxing-barcoder-embed'

@@ -75,19 +75,16 @@ You could also handling the OnKeyDownEvent by call the CompoundBarcodeView.onKey
 Adding aar dependency
 ---------------------
  1. download the sample
- 2. Android Studio : File - New - Import Module,choose source directory
+ 2. Android Studio : **File** - **New** - **Import Module**, and choose source directory
  3. Add the following to your build.gradle file:
-    
-    dependencies {
-        compile project(':zxing-barcoder-embed')
-    }
-
-
+ 
+ 
+        dependencies {
+             compile project(':zxing-barcoder-embed')
+        }
 
 Notice: For more information you can visit the repository [zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded).
 And Thanks for the help _**journeyapps**_ again.
-
-
 
 Developed by
 ------------
